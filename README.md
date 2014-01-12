@@ -21,10 +21,10 @@ The purpose of this hermod-[java|csharp|cpp|js]-ser-* projects is to define a hi
 * [hermod-js-ser-hermod](https://github.com/hermod/hermod-js-ser-hermod)  (TODO)
 
 ### Google Protocol Buffer Implementation
-* [hermod-java-ser-gpb](https://github.com/hermod/hermod-java-ser-gpb) (TODO)
-* [hermod-csharp-ser-gpb](https://github.com/hermod/hermod-csharp-ser-gpb) (TODO)
-* [hermod-cpp-ser-gpb](https://github.com/hermod/hermod-cpp-ser-gpb) (TODO)
-* [hermod-scala-ser-gpb](https://github.com/hermod/hermod-scala-ser-gpb) (TODO)
-* [hermod-js-ser-gpb](https://github.com/hermod/hermod-js-ser-gpb)  (TODO)
+* [hermod-java-ser-protobuf](https://github.com/hermod/hermod-java-ser-protobuf) (TODO)
+* [hermod-csharp-ser-protobuf](https://github.com/hermod/hermod-csharp-ser-protobuf) (TODO)
+* [hermod-cpp-ser-protobuf](https://github.com/hermod/hermod-cpp-ser-protobuf) (TODO)
+* [hermod-scala-ser-protobuf](https://github.com/hermod/hermod-scala-ser-protobuf) (TODO)
+* [hermod-js-ser-protobuf](https://github.com/hermod/hermod-js-ser-protobuf)  (TODO)
 
 ### Others ?
